@@ -1,14 +1,45 @@
-Simon says is a mini project which i build when i was learning DOM 
+# 🎮 SimonSpark - Memory Game
 
-#Description -> 
-It is a simple memory-based game,when we start it by clicking on start button ,randomly one box out of four will flash and we have to memorise it and click on that box which browser flashes 
-if we click on right box we will be forwarded to next level, if we don't we are back to level one,and after clicking on right one a box will flash again, it can be old or new then we have to click 
-from the color which flashes first and then follow the browser's color flashing pattern one by one,by following browser pattern we can go to next level otherwise we will back to level one 
+- The game challenges players to remember and repeat an increasing sequence of colors. With each level, the sequence becomes longer, making the game more challenging and engaging.
 
-#Tech-Stack
--> HTML
--> CSS
--> Javascript
+## ⛏️ Technologies Used
 
-#What I learned 
--->DOM Events & using setTimeOut functions and other functions
+- HTML5 – Structure of the game
+
+- CSS3 – Styling and visual effects
+
+- JavaScript – Game logic
+
+- DOM Manipulation – Handling user input and updating the UI
+
+## 🌟 Features 
+
+- DOM Manipulation
+
+- Interactive Color button Animations
+
+- Simple and clean User Interface
+
+- Event Handling
+
+## 👾 How to Play
+
+- Press any key to start the game.
+
+- The game will highlight a color.
+
+- Click the colors in the same order as shown.
+
+- Each correct round adds a new color to the sequence.
+
+- If you click the wrong color, the game ends and resets.
+
+## 🚀 What I Learned 
+
+- DOM Manipulation
+  
+- Debuugging Skills
+
+- Function and Code Structure
+
+- Game Logic Implementation 
