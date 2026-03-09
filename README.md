@@ -1,4 +1,4 @@
-# 🎮 SimonSpark - Memory Game
+#  SimonSpark - Memory Game
 
 - The game challenges players to remember and repeat an increasing sequence of colors. With each level, the sequence becomes longer, making the game more challenging and engaging.
 
@@ -12,7 +12,7 @@
 
 - DOM Manipulation – Handling user input and updating the UI
 
-## 🌟 Features 
+##  Features 
 
 - DOM Manipulation
 
@@ -22,7 +22,7 @@
 
 - Event Handling
 
-## 👾 How to Play
+##  How to Play
 
 - Press any key to start the game.
 
@@ -34,7 +34,7 @@
 
 - If you click the wrong color, the game ends and resets.
 
-## 🚀 What I Learned 
+##  What I Learned 
 
 - DOM Manipulation
   
